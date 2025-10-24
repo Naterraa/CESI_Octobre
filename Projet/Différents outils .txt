@@ -1,0 +1,27 @@
+### PARTIE 1 
+Conseils (à titre subjectif)
+
+Il ne faut pas tous les utiliser, mais en utiliser une bonne partie pour montrer que vous connaissez 
+beaucoup d'outils dans la chefferie de projet pour le cahier des charges, et au bon endroit
+Le  but est d'avoir quelque chose de fluide 
+
+- SWOT (forces, faiblesses, opportunités, menaces) pour situer le projet dans son environnement 
+- GANTT planning prévisionnel  (chemin critique) SUR tous les livrables
+- RACI pour les roles pour chaque tâche du livrable (UX, dev, ... , test etc)
+- Matrice des risques 
+- Indicateurs clés pour la réussite à suivre / KPI sous une forme visuelle peut être ? 
+- WBS pour découper en sous-tâches le travail
+- MOSCOW pour hiérarchiser les tâches du PROJET (pas livrables)
+- Un outil qui priorise et/ou hiérarchise les fonctions pour les développeurs OU user stories ? 
+- Décrire l'architecture fonctionnelle proposée (petit schéma Front / back / bdd / ou api ...)
+- Maquette ou petit mock de la homepage en préçisant que c'est à titre indicatif et sujet à modification
+
+### PARTIE 2
+
+Conseils (à titre subjectif)
+
+- Réaliser 1 à 5 diagrammes de use case pour les features princnipales
+- Choisir 1 ou 2 use case et en créer des diagrammes de séquence
+- Réaliser 1 diagramme de classe pour le système (les classes principales) ne pas hésiter à montrer ce que vous avez appris
+relations / héritage / tout autre association
+ 
